@@ -1,6 +1,6 @@
 # GoLang From Scratch
 
-\<img src="[https://go.dev/images/favicon-gopher.png](https://go.dev/images/favicon-gopher.png)" alt="Golang Logo" width="120" /\>
+<img src="/assets/favicon-gopher.png" alt="Golang Logo" width="120" /\>
 A clean, minimal repository documenting my journey of learning Golang from the ground up. Every piece of code here is written from scratch — starting from the basics to building complete projects.
 
 ## About
